@@ -58,17 +58,7 @@ npm run dev
 Acesse no navegador:
 
 http://localhost:5173 ou http://localhost:3000
-📂 Estrutura do projeto
-css
-Copiar código
-src/
- ├── assets/
- ├── components/
- ├── pages/
- ├── routes/
- ├── styles/
- ├── App.jsx
- └── main.jsx
+ 
 📚 Aprendizados
 Neste projeto foi possível consolidar conhecimentos em:
 
@@ -81,13 +71,4 @@ Navegação com React Router
 Estilização modular
 
 Estruturação de layouts responsivos
-
-📌 Próximas melhorias
- Criar layout mobile-first
-
- Adicionar animações
-
- Implementar modo dark/light
-
- Criar deploy público
 
