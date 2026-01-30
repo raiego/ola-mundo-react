@@ -28,7 +28,7 @@ Este projeto faz parte do meu processo de aprendizado e evolução como desenvol
 
 ## 📸 Preview
 
-> Em breve: adicione aqui prints da aplicação ou o link do deploy.
+> ola-mundo-react-rho.vercel.app
 
 ---
 
